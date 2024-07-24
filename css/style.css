@@ -129,6 +129,7 @@ body {
   box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
   position: relative;
   top: -10px;
+  transition-duration: 0.3s;
 }
 .sneakers-img {
   margin-bottom: 32px;
