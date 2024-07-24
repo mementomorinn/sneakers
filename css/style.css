@@ -125,6 +125,11 @@ body {
   padding-bottom: 32px;
   max-width: 364px;
 }
+.sneakers-grid-items:hover {
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+  position: relative;
+  top: -10px;
+}
 .sneakers-img {
   margin-bottom: 32px;
   border-radius: 10px;
